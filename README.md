@@ -1,1 +1,1 @@
-# p5js.pong
+# p5.js-pong
